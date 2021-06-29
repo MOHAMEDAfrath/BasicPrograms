@@ -13,7 +13,8 @@ namespace BasicPrograms
             // HarmonicNumber.HarmonicSeq();
             //FactorProgram.FactorMethod();
             //QuotientandRemainder.Division();
-            SwapNumbers.GetInput();
+            //SwapNumbers.GetInput();
+            EvenorOdd.CheckEvenorOdd();
         }
     }
 }

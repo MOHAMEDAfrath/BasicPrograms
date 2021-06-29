@@ -8,6 +8,9 @@ namespace BasicPrograms
 {
     class SwapNumbers
     {
+        /// <summary>
+        /// Swapping numbers with and without temp
+        /// </summary>
         public static void GetInput()
         {
             Console.WriteLine("Enter the Two Numbers:");
