@@ -7,7 +7,9 @@ namespace BasicPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Basic Programming!");
-            FlipaCoin.HeadOrTail();
+            //FlipaCoin.HeadOrTail();
+            LeapYear.CheckLeapYear();
+
         }
     }
 }
