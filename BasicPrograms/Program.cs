@@ -8,7 +8,8 @@ namespace BasicPrograms
         {
             Console.WriteLine("Welcome to Basic Programming!");
             //FlipaCoin.HeadOrTail();
-            LeapYear.CheckLeapYear();
+            //LeapYear.CheckLeapYear();
+            PowerOf2.Powerof2Table();
 
         }
     }
