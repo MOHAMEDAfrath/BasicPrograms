@@ -14,7 +14,9 @@ namespace BasicPrograms
             //FactorProgram.FactorMethod();
             //QuotientandRemainder.Division();
             //SwapNumbers.GetInput();
-            EvenorOdd.CheckEvenorOdd();
+            //EvenorOdd.CheckEvenorOdd();
+            VowelorConsonants.CheckVowelOrConsonants();
+
         }
     }
 }
