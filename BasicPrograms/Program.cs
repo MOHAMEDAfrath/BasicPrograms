@@ -11,7 +11,8 @@ namespace BasicPrograms
             //LeapYear.CheckLeapYear();
             //PowerOf2.Powerof2Table();
             // HarmonicNumber.HarmonicSeq();
-            FactorProgram.FactorMethod();
+            //FactorProgram.FactorMethod();
+            QuotientandRemainder.Division();
         }
     }
 }
