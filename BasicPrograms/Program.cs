@@ -12,7 +12,8 @@ namespace BasicPrograms
             //PowerOf2.Powerof2Table();
             // HarmonicNumber.HarmonicSeq();
             //FactorProgram.FactorMethod();
-            QuotientandRemainder.Division();
+            //QuotientandRemainder.Division();
+            SwapNumbers.GetInput();
         }
     }
 }
