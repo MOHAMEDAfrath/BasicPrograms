@@ -10,7 +10,8 @@ namespace BasicPrograms
             //FlipaCoin.HeadOrTail();
             //LeapYear.CheckLeapYear();
             //PowerOf2.Powerof2Table();
-            HarmonicNumber.HarmonicSeq();
+            // HarmonicNumber.HarmonicSeq();
+            FactorProgram.FactorMethod();
         }
     }
 }
