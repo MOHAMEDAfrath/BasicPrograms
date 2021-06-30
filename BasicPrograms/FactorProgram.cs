@@ -36,7 +36,9 @@ namespace BasicPrograms
             {
                 Console.Write(N);
             }
+            Console.WriteLine(" ");
         }
+
 
     }
 }

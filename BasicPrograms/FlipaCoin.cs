@@ -13,6 +13,7 @@ namespace BasicPrograms
             int head = 0;
             int tail = 0;
             Random random = new Random();
+            Console.WriteLine("Enter the number of Flips:");
             int noOfFlips = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < noOfFlips; i++)
             {
